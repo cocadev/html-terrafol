@@ -1,0 +1,790 @@
+ @media only screen and (max-width: 767px) {
+.single-proprty-image img.img-responsive {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 132px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	top: 56%;
+	right: 140px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 132px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	top: 72%;
+	right: 140px;
+}
+.single-proprty-card {
+	margin-bottom: 46px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum1 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum3 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum4 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum6 {
+	width: 33%;
+}
+.aboutustoptext .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .whychoosesinglebox {
+	margin: 0;
+}
+.whychoosesinglebox1::after, .whychoosesinglebox1::before, .whychoosesinglebox2::before, .whychoosesinglebox2::after, .whychoosesinglebox3::after, .whychoosesinglebox4::before, .whychoosesinglebox5::before {
+	display: none;
+}
+.aboutusmiddletext .whychoosesinglebox p {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.aboutusmiddletext .whychoosesinglebox img {
+	margin-top: 0;
+}
+.wrapper .banner .banner-caption .weblogo{
+	top:25px;
+}
+.banner-caption .weblogo img{
+	width:70% !important; 
+}
+.wrapper .banner .banner-caption .caption-title{
+	padding: 10px 0;
+	top: 40px;
+}
+.wrapper .banner .banner-caption .register-now{
+	top:45px;
+}
+.whatwedo .col-12, .howitworks .col-12, .howitworks .nav-tabs, .whatarethefees .col-12, .howitworkspage .col-12, .howitworksbgcolor .col-12, .howitworksbgcolor .col-12.selectionprocess {
+    width: 100%;
+}
+.howitworks .nav-tabs .nav-item, .howitworksbgcolor .nav-tabs .nav-item{
+	margin-bottom:20px;
+}
+.proprty-card {
+	margin-bottom:20px;
+}
+.howitworkspage img {
+    width: 100%;
+}
+#howItWorkProcess{
+	display:none;
+}
+.howexit .col-md-1{
+	text-align:center;
+}
+.howexit img{
+	width:40%;
+}
+.selectionprocess .howitinner.nav-tabs .nav-item{
+	width:100%;
+	margin: 0px auto;
+	margin-bottom:20px;
+}
+}
+ @media only screen and (max-width: 600px) {
+.single-proprty-text {
+	width: 70%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	right: 304px;
+	top: 57.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	right: 305px;
+	top: 73%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 70%;
+}
+}
+ @media only screen and (max-width: 992px) {
+.property-detail .single-proprty-text .single-proprty-text-22 div {
+	font-size: 6px;
+}
+.property-detail .single-proprty-text .single-proprty-text-21 div {
+	font-size: 9px;
+}
+.single-proprty-text-bottom {
+	display: flex;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 86px;
+	margin-top: 8px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	right: 94px;
+	top: 51.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 86px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	top: 71.5%;
+	right: 94px;
+}
+.property-detail .single-proprty-text .single-proprty-text-1 {
+	font-size: 16px;
+}
+.aboutustoptext .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .whychoosesinglebox{
+	margin:0;
+}
+.aboutusmiddletext .whychoosesinglebox img{
+	padding:0;
+}
+.whychoosesinglebox2::before, .whychoosesinglebox1::before{
+	height:220px;
+}
+.aboutusbootomtext .textimonialDetail {
+    width: 70%;
+    padding-left: 15px;
+    font-size: 16px;
+	line-height: 16px;
+    padding-top: 5px;
+}
+.aboutusbootomtext .textimonialDetail .maindetail span{
+	font-size:13px;
+}
+.proprty-card {
+	margin-bottom:30px;
+}
+.whatwedo .col-12, .howitworks .col-12, .whatarethefees .col-12, .faqtext .col-12, .howitworksbgcolor .col-12, .howitworksbgcolor .howitinner.nav-tabs, .howitworksbgcolor .col-12.selectionprocess  {
+    width: 100%;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item{
+	width:20%;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-link{
+	width:100% !important;
+	font-size: 12px;
+	padding:5px;
+	line-height: 15px;
+}
+#howItWorkProcess{
+	width:75%;
+}
+.howitworksbgcolor .col-12.selectionprocess .nav-item{
+	width:20%;
+}
+.howitworksbgcolor .col-12.selectionprocess .nav-link{
+	font-size:12px;
+	width:100% !important;
+	padding:5px;
+	line-height:15px;
+}
+#selectionhowItWorkProcess{
+	width:75%;
+	margin-top: 0;
+}
+}
+ @media only screen and (max-width: 1224px) {
+.property-detail .single-proprty-text .single-proprty-text-1 {
+	font-size: 17px;
+}
+.property-detail .single-proprty-text .single-proprty-text-22 div {
+	font-size: 7px;
+}
+.property-detail .single-proprty-text .single-proprty-text-21 div {
+	font-size: 9px;
+}
+.single-proprty-text-bottom {
+	display: flex;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 87px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	right: 98px;
+	top: 72%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	right: 98px;
+	top: 52%
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 87px;
+	margin-top: 7px;
+}
+.aboutustoptext .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .col-12, .faqtext .col-12, .howitworkspage .col-12 {
+	width: 100%;
+}
+.aboutusmiddletext .whychoosesinglebox{
+	margin:0;
+}
+}
+	/*@media only screen and (max-width: 1920px) {
+		.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before{
+			left: 132px;
+			top: 60.5%;
+		}
+		.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after{
+			right: 132px;
+			top: 60.5%;
+		}
+		.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before{
+			left:132px;
+		}
+		.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after{
+			right:132px;
+			top: 77.5%
+		}
+		.property-detail .single-proprty-text .single-proprty-text-21{
+			margin-left: 71px;
+		}
+	}*/
+	
+@media only screen and (min-width : 1400px) and (max-width: 1460px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	top: 58.5%;
+	right: 124px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	top: 76.2%;
+	right: 124px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 124px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 124px;
+}
+#howItWorkProcess {
+    width: 75%;
+}
+#selectionhowItWorkProcess {
+    width: 75%;
+}
+}
+ @media only screen and (max-width: 1280px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 112px;
+	top: 58.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 112px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	top: 58%;
+	right: 112px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 76%;
+	right: 112px;
+}
+.howitworksbgcolor .col-12{
+	width:100%;
+}
+}
+ @media only screen and (min-width : 1500px) and (max-width: 1600px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	right: 140px;
+	top: 61.2%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 140px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 140px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	right: 140px;
+	top: 78%;
+}
+}
+ @media only screen and (min-width : 320px) and (max-width: 360px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum1 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum3 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum4 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum6 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 104px;
+	top: 51%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	top: 52%;
+	right: 107px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 105px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 69.5%;
+	right: 106px;
+}
+.howitworks .nav-tabs .nav-item, .howitworksbgcolor .nav-tabs .nav-item{
+	margin-bottom:20px;
+}
+.proprty-card {
+	margin-bottom:20px;
+}
+.howitworkspage img {
+    width: 100%;
+}
+#howItWorkProcess, #selectionhowItWorkProcess{
+	display:none;
+}
+.howexit .col-md-1{
+	text-align:center;
+}
+.howexit img{
+	width:40%;
+}
+.selectionprocess .howitinner.nav-tabs .nav-item{
+	width:100%;
+	margin: 0px auto;
+	margin-bottom:20px;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item {
+    width: 100%;
+}
+}
+@media only screen and (min-width : 360px) and (max-width: 370px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 115px;
+	top: 53.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	top: 54.5%;
+	right: 120px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 115px;
+	top: 71%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 71%;
+	right: 120px;
+}
+.howitworks .nav-tabs .nav-item, .howitworksbgcolor .nav-tabs .nav-item{
+	margin-bottom:20px;
+}
+.proprty-card {
+	margin-bottom:20px;
+}
+.howitworkspage img {
+    width: 100%;
+}
+#howItWorkProcess{
+	display:none;
+}
+.howexit .col-md-1{
+	text-align:center;
+}
+.howexit img{
+	width:40%;
+}
+.selectionprocess .howitinner.nav-tabs .nav-item{
+	width:100%;
+	margin: 0px auto;
+	margin-bottom:20px;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item {
+    width: 45%;
+	margin: 0px auto;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item .nav-link img {
+    width: 30%;
+    margin-bottom: 0px;
+}
+.howitworksbgcolor .tab-content #ownership .howitinner{
+	margin-top:15px;
+}
+.howitworksbgcolor .selectionprocess .howitinner{
+	margin-top:25px;
+}
+}
+@media only screen and (min-width : 371px) and (max-width: 400px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 120px;
+	top: 54.8%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	right: 132px;
+	top: 56%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 120px;
+	top: 71.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	right: 132px;
+	top: 71.5%;
+}
+}
+@media only screen and (min-width : 401px) and (max-width: 420px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 130px;
+	top: 56%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	right: 140px;
+	top: 57%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 130px;
+	top: 73%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	right: 140px;
+	top: 73%;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item{
+	margin:0 5px;
+	float:left;
+	width: 22%;
+}
+#howItWorkProcess, #selectionhowItWorkProcess{
+	display:none;
+}
+howitworksbgcolor .col-12.selectionprocess .nav-item {
+    width: 22%;
+	float:left;
+}
+.howexit img {
+    width: 15%;
+}
+}
+@media only screen and (min-width : 421px) and (max-width: 480px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 130px;
+	top: 56%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	right: 140px;
+	top: 57%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 130px;
+	top: 72.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	right: 140px;
+	top: 72.5%;
+}
+}
+@media only screen and (min-width : 581px) and (max-width: 620px) {
+.single-proprty-text {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-image img {
+	width: 100%;
+}
+.property-detail .single-proprty-card .single-proprty-text-button {
+	width: 100%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 130px;
+	top: 56%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	right: 140px;
+	top: 57%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 130px;
+	top: 72.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	right: 140px;
+	top: 72.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 175px;
+	top: 64%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	right: 185px;
+	top: 64.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 175px;
+	top: 77.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	right: 185px;
+	top: 77.5%;
+}
+.howitworksbgcolor .howitinner.nav-tabs .nav-item {
+	margin: 0 5px;
+	width: 23%;
+	float: left;
+}
+.howexit img {
+    width: 15%;
+}
+#howItWorkProcess{
+	display:block;
+}
+}
+@media only screen and (min-width : 768px) and (max-width: 800px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum1 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum3 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum4 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum6 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 125px;
+	top: 59.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	top: 60.5%;
+	right: 135px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 125px;
+	top: 77.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 77.5%;
+	right: 135px;
+}
+}
+@media only screen and (min-width : 801px) and (max-width: 840px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum1 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum3 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum4 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum6 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 135px;
+	top: 58.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	top: 59.5%;
+	right: 145px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 135px;
+	top: 74.5%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 74.5%;
+	right: 145px;
+}
+.property-detail .single-proprty-card {
+	margin-bottom: 30px;
+}
+}
+@media only screen and (min-width : 981px) and (max-width: 1024px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum1 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum3 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum4 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum6 {
+	width: 33%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::before {
+	left: 89px;
+	top: 51%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2::after {
+	top: 52%;
+	right: 90px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::before {
+	left: 89px;
+	top: 72%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5::after {
+	top: 72%;
+	right: 90px;
+}
+#selectionhowItWorkProcess{
+	width:75%;
+	margin-top: 0;
+}
+#howItWorkProcess {
+    width: 75%;
+}
+.howitworksbgcolor .col-12.selectionprocess{
+	width:100%;
+}
+}
+@media only screen and (min-width : 1200px) and (max-width: 1299px) {
+	#selectionhowItWorkProcess{
+		width:75%;
+	}
+	#howItWorkProcess{
+		width:60%;
+	}
+}
+@media only screen and (min-width : 1300px) and (max-width: 1370px) {
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:before {
+	left: 120px;
+	top: 59%;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum2:after {
+	top: 59%;
+	right: 120px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:before {
+	left: 120px;
+}
+.property-detail .single-proprty-text .single-proprty-text-bottom .coloum5:after {
+	top: 76%;
+	right: 120px;
+}
+#howItWorkProcess {
+    width: 75%;
+}
+#selectionhowItWorkProcess {
+    width: 75%;
+}
+}
+@media (min-width: 768px) {
+.carousel-inner .active,  .carousel-inner .active + .carousel-item,  .carousel-inner .active + .carousel-item + .carousel-item,  .carousel-inner .active + .carousel-item + .carousel-item + .carousel-item {
+	display: block;
+}
+.carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item,  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item,  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item + .carousel-item {
+	transition: none;
+}
+.carousel-inner .carousel-item-next,  .carousel-inner .carousel-item-prev {
+	position: relative;
+	transform: translate3d(0, 0, 0);
+}
+.carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+	position: absolute;
+	top: 0;
+	right: -33.33%;
+	z-index: -1;
+	display: block;
+	visibility: visible;
+}
+.active.carousel-item-left + .carousel-item-next.carousel-item-left,  .carousel-item-next.carousel-item-left + .carousel-item,  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item,  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+	position: relative;
+	transform: translate3d(-100%, 0, 0);
+	visibility: visible;
+}
+/* farthest right hidden item must be abso position for animations */
+.carousel-inner .carousel-item-prev.carousel-item-right {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	display: block;
+	visibility: visible;
+}
+.active.carousel-item-right + .carousel-item-prev.carousel-item-right,  .carousel-item-prev.carousel-item-right + .carousel-item,  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item,  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item + .carousel-item {
+	position: relative;
+	transform: translate3d(100%, 0, 0);
+	visibility: visible;
+	display: block;
+	visibility: visible;
+}
+.carousel-inner .carousel-item.active, .carousel-inner .carousel-item-next, .carousel-inner .carousel-item-prev {
+	display: flex;
+}
+.carousel-inner .carousel-item-right.active, .carousel-inner .carousel-item-next {
+	transform: translateX(33%);
+}
+.carousel-inner .carousel-item-left.active, .carousel-inner .carousel-item-prev {
+	transform: translateX(-33%);
+}
+.carousel-inner .carousel-item-right, .carousel-inner .carousel-item-left {
+	transform: translateX(0);
+}
+}
